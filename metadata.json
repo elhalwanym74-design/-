@@ -1,0 +1,6 @@
+{
+  "name": "WiFiGuard: Network Security & Threat Defense",
+  "description": "Comprehensive Wi-Fi security analyzer, LAN device vulnerability scanner, evil twin detector, ARP spoofing monitor, and channel optimization console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
